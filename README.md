@@ -4,15 +4,15 @@ Trabalhos da Disciplina De PensamentoComputacional Aluna Maria Alves e Isabel
 
 ![image](https://user-images.githubusercontent.com/107076633/181111801-a2d9df84-f4ce-46f8-b1ac-b34abc90ad11.png)
 
-**O amor, quando se revela,
+_O amor, quando se revela,_
 
->Não se sabe revelar,
+_Não se sabe revelar,_
 
->Sabe bem olhar p'ra ela,
+_Sabe bem olhar p'ra ela,_
 
->Mas não lhe sabe falar.**
+_Mas não lhe sabe falar._
 
-Fernando Pessoa
+**Fernando Pessoa**
 
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTeRppaf5narda1aQ4jco-oHh6aE_Y4Hw1g3BpGE_K63S4UXTRdUBF1Je7CYAUazA9Mc&usqp=CAU
